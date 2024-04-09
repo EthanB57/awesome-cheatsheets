@@ -271,6 +271,7 @@ for(dataType item : array) {
                     aas[][];   // array of array of short
     Object[]        ao;        // array of Object
     Collection<?>[] ca;  // array of Collection of unknown type
+	**HashSet<> and HashMap<> are methods of Collections with similar but differing arguments and functions 
 ```
 
 > DECLARATION OF ARRAY VARIABLE
