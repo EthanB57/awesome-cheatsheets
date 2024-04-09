@@ -4,7 +4,8 @@
 
 **WEBSITE DIRECTORY**: [Available here](https://lecoupa.github.io/awesome-cheatsheets/).
 
-> 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+>Ethan is here!
+>  📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## 🤔 Why Awesome-Cheatsheets?
 
